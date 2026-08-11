@@ -30,7 +30,7 @@ function onYouTubeIframeAPIReady() {
 
                 listType: "playlist",
 
-                list: "RDFRVVkN0PecM&start_radio=1",
+                list: "RDCLAK5uy_lmQJPAbjefudy9EfVbgMNgqh3mQ6i9WmU",
 
                 controls: 0
 
